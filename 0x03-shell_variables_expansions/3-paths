@@ -1,2 +1,2 @@
 #!/bin/bash
-h$((`echo $PATH | gre[ -o ":/" | wc -l` +1))
+ech$((`echo $PATH | gre[ -o ":/" | wc -l` +1))
