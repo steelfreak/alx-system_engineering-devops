@@ -1,2 +1,2 @@
 #!/bin/bash
-ech$((`echo $PATH | gre[ -o ":/" | wc -l` +1))
+echo $(printf $PATH | tr":""\n" | wc -w)
